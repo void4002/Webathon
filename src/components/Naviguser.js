@@ -16,7 +16,7 @@ function Naviguser() {
   return (
     <Navbar bg="success" expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#">DietFit</Navbar.Brand>
+        <Navbar.Brand href="/user">DietFit</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
